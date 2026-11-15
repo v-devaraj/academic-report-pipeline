@@ -1,0 +1,13 @@
+# Secrets: never upload
+.env
+
+# Virtual environment: rebuild from requirements.txt
+.venv/
+
+# Python's auto-generated cache files
+__pycache__/
+*.pyc
+
+# Editor and Windows clutter
+.vscode/
+Thumbs.db
